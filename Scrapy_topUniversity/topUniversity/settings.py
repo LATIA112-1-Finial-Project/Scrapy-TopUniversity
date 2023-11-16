@@ -92,3 +92,10 @@ REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
+
+top_university_url = {
+    "2024": "https://www.topuniversities.com/rankings/endpoint?nid=3897789&page=0&items_per_page=1500&tab=indicators&region=&countries=&cities=&search=&star=&sort_by=rank&order_by=asc&program_type=",
+    "2023": "https://www.topuniversities.com/rankings/endpoint?nid=3816281&page=0&items_per_page=1500&tab=indicators",
+    "2022": "https://www.topuniversities.com/rankings/endpoint?nid=3740566&page=0&items_per_page=1500&tab=indicators",
+    "2021": "https://www.topuniversities.com/rankings/endpoint?nid=2057712&page=0&items_per_page=1500&tab=indicators"
+}

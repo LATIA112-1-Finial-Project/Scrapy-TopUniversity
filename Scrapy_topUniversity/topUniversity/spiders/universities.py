@@ -1,4 +1,5 @@
 import scrapy
+from topUniversity.settings import top_university_url
 
 
 class TopuniversitySpider(scrapy.Spider):
@@ -8,8 +9,9 @@ class TopuniversitySpider(scrapy.Spider):
 
     def start_requests(self):
         # I had write the reason why I use this url in the README.md
-        url = "https://www.topuniversities.com/rankings/endpoint?nid=3897789&page=0&items_per_page=1500&tab=indicators&region=&countries=&cities=&search=&star=&sort_by=rank&order_by=asc&program_type="
-        # Send a request to the url
+        # and the url is from
+        url = top_university_url["2024"]
+        # Send a request to the url ../topUniversity/settings.py
         yield scrapy.Request(url=url)
     def parse(self, response):
         score_nodes = response.json()["score_nodes"]
@@ -39,3 +41,4 @@ class TopuniversitySpider(scrapy.Spider):
                 "sustainability rank": university["scores"][8]["rank"],
                 "sustainability score": university["scores"][8]["score"],
             }
+
