@@ -30,6 +30,11 @@ $ source venv/bin/activate
     $ cd Scrapy_topUniversity
     $ scrapy crawl topUniversity -o file.csv
     ```
+4. Use the command below to clean the dirty data in the file.
+    ```bash
+    $ python csv_cleaner.py
+    ```
+5. The file `cleaned_file_<year>.csv` is the resulting CSV file prepared for utilization in a database table.
 
 In my code, I am dealing with a Dynamic JS Website, where the data in the table is loaded dynamically. To retrieve the corresponding data, I have opted to use the website's API endpoint. 
 
