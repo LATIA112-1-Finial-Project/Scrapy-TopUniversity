@@ -1,10 +1,12 @@
 import pandas as pd
 
 """
-Remove all '=' and '+' from the csv file elements. 
+This script cleans data in CSV files by removing all '=' and '+' symbols.
+Additionally, it identifies the common set of universities across all files and retains only the first occurrence of each university, eliminating duplicates.
+Instructions:
 
-- To add more files to clean, add the file name to the file_names list.
-- To rename the output file, change the string in the df.to_csv() function.
+1. Add all file names to the 'files' list.
+2. To rename the output files, modify the 'get_output_file_name' function.
 """
 
 # TODO: Add all file names here
@@ -42,7 +44,7 @@ def data_clean(value):
 
 
 if __name__ == "__main__":
-    # clean data and create new csv files
+    # Clean data and create new csv files
     for file in files:
         df = pd.read_csv(file)
 
@@ -51,7 +53,7 @@ if __name__ == "__main__":
 
         df.to_csv(get_output_file_name(file), index=False)
 
-    # get intersection data of all files by university name
+    # Get intersection data of all files by university name
     output_files = [get_output_file_name(file) for file in files]
 
     common_universities = set(pd.read_csv(output_files[0])["name"])
@@ -62,7 +64,7 @@ if __name__ == "__main__":
 
     common_universities = list(common_universities)
 
-    # filter data by common universities
+    # Filter data by common universities
     for file in output_files:
         df = pd.read_csv(file)
         filtered_df = df[df["name"].isin(common_universities)]
