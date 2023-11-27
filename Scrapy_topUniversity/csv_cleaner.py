@@ -42,8 +42,29 @@ def data_clean(value):
 
 
 if __name__ == "__main__":
+    # clean data and create new csv files
     for file in files:
         df = pd.read_csv(file)
+
+        df = df.drop_duplicates(subset="name", keep="first")
         df = df.apply(lambda x: x.map(data_clean))
 
         df.to_csv(get_output_file_name(file), index=False)
+
+    # get intersection data of all files by university name
+    output_files = [get_output_file_name(file) for file in files]
+
+    common_universities = set(pd.read_csv(output_files[0])["name"])
+
+    for file in output_files[1:]:
+        current_universities = set(pd.read_csv(file)["name"])
+        common_universities.intersection_update(current_universities)
+
+    common_universities = list(common_universities)
+
+    # filter data by common universities
+    for file in output_files:
+        df = pd.read_csv(file)
+        filtered_df = df[df["name"].isin(common_universities)]
+
+        filtered_df.to_csv(file, index=False)
