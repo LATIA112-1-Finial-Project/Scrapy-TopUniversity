@@ -11,13 +11,14 @@ $ source venv/bin/activate
 
 ## Dependancy
 
-* Requirements.txt
+- Requirements.txt
 
-  * ```bash
+  - ```bash
     $ pip install -r requirements.txt
     ```
-* Chromedriver for MacOS
-  * ```bash
+
+- Chromedriver for MacOS
+  - ```bash
     $ brew install --cask chromedriver
     ```
 
@@ -25,22 +26,35 @@ $ source venv/bin/activate
 
 1. Install the dependancies
 2. Modify the year that you want at line 13 in `universities.py`, default is "2024". (2021~2024)
-3. Note that `file.csv` already exist in codebase, hence you **MAY CHANGE THE NAME TO THE OTHER** so as not to keep writing the data into `file.csv`. 
-    ```bash
-    $ cd Scrapy_topUniversity
-    $ scrapy crawl topUniversity -o file.csv
-    ```
-4. Use the command below to clean the dirty data in the file.
-    ```bash
-    $ python csv_cleaner.py
-    ```
-5. The file `cleaned_file_<year>.csv` is the resulting CSV file prepared for utilization in a database table.
+3. Note that `file.csv` already exist in codebase, hence you **MAY CHANGE THE NAME TO THE OTHER** so as not to keep writing the data into `file.csv`.
+   ```bash
+   $ cd Scrapy_topUniversity
+   $ scrapy crawl topUniversity -o file.csv
+   ```
+4. Use the command below to clean the dirty data in the file. This script removes all `=` and `+` symbols from the data and eliminating duplicates universities.
 
-In my code, I am dealing with a Dynamic JS Website, where the data in the table is loaded dynamically. To retrieve the corresponding data, I have opted to use the website's API endpoint. 
+   ```bash
+   $ python csv_cleaner.py
+   ```
+
+   The file `cleaned_file_<year>.csv` represents the resulting CSV file that has been cleaned and is ready for use in a database table.
+
+5. Use the following command to split the cleaned CSV file into multiple CSV files based on attribute types and years.
+
+   ```bash
+   $ python attribute_splitter.py
+   ```
+
+   The resulting CSV files are stored in folders named after the corresponding years `ex. 2021/`, and each file is named after the attribute type and year `ex. overall_2021.csv`.
+
+---
+
+In my code, I am dealing with a Dynamic JS Website, where the data in the table is loaded dynamically. To retrieve the corresponding data, I have opted to use the website's API endpoint.
 
 The method to obtain the endpoint involves opening the Network tab, selecting the Fetch/XHR filter tag, refreshing the webpage, and identifying the relevant keyword in the name file associated with the endpoint. By choosing the header, the request URL, which is the desired API endpoint, can be found. This approach allows for the successful retrieval of data in JSON content type.
 
 ### Yield Format
+
 ```py
 "2024": {
     "name": university["title"].strip(),
@@ -141,8 +155,8 @@ The method to obtain the endpoint involves opening the Network tab, selecting th
 
 ## Demo Video
 
-* [HW02 - Scrapy_topUniversity](https://youtu.be/BhOQm14mPn4)
+- [HW02 - Scrapy_topUniversity](https://youtu.be/BhOQm14mPn4)
 
 ## Material
 
-* [QS World University Rankings 2024: Top global universities](https://www.topuniversities.com/university-rankings/world-university-rankings/2024)
+- [QS World University Rankings 2024: Top global universities](https://www.topuniversities.com/university-rankings/world-university-rankings/2024)
