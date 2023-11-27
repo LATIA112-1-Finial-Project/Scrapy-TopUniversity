@@ -2,6 +2,15 @@ import pandas as pd
 import re
 import os
 
+"""
+This script organizes university data from multiple CSV files, extracting information based on attribute types.
+The resulting CSV files are stored in folders named after the corresponding years, and each file is named after the attribute type and year.
+
+Instructions:
+
+1. Add all file names to the 'files' list.
+
+"""
 
 files = [
     "cleaned_file_2021.csv",

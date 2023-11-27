@@ -3,6 +3,7 @@ import pandas as pd
 """
 This script cleans data in CSV files by removing all '=' and '+' symbols.
 Additionally, it identifies the common set of universities across all files and retains only the first occurrence of each university, eliminating duplicates.
+
 Instructions:
 
 1. Add all file names to the 'files' list.
