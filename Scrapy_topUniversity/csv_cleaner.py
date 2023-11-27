@@ -1,17 +1,29 @@
 import pandas as pd
 
 """
-Remove all '=' and '+' from the csv file elements. 
+This script cleans data in CSV files by removing all '=' and '+' symbols.
+Additionally, it identifies the common set of universities across all files and retains only the first occurrence of each university, eliminating duplicates.
 
-- To add more files to clean, add the file name to the file_names list.
-- To rename the output file, change the string in the df.to_csv() function.
+Instructions:
+
+1. Add all file names to the 'files' list.
+2. To rename the output files, modify the 'get_output_file_name' function.
 """
 
 # TODO: Add all file names here
-file_names = ["file_2021.csv", "file_2022.csv", "file_2023.csv", "file_2024.csv"]
+files = ["file_2021.csv", "file_2022.csv", "file_2023.csv", "file_2024.csv"]
 
 
-def csv_clean(value):
+def get_output_file_name(file_name):
+    # TODO: Rename the output file by modifying the return string.
+    # Example: return f"cleaned_{file_name}"
+
+    # Or, to overwrite the input file, use:
+    # return file_name
+    return f"cleaned_{file_name}"
+
+
+def data_clean(value):
     if pd.isnull(value):
         return "n/a"
 
@@ -32,13 +44,30 @@ def csv_clean(value):
     return cleaned_value
 
 
-for file_name in file_names:
-    df = pd.read_csv(file_name)
-    df = df.apply(lambda x: x.map(csv_clean))
+if __name__ == "__main__":
+    # Clean data and create new csv files
+    for file in files:
+        df = pd.read_csv(file)
 
-    # TODO: Rename the output file by modifying the string inside df.to_csv()
-    # Example: df.to_csv(f"cleaned_{file_name}", index=False)
+        df = df.drop_duplicates(subset="name", keep="first")
+        df = df.apply(lambda x: x.map(data_clean))
 
-    # Or, to overwrite the input file, uncomment the line below, and comment the original line.
-    # df.to_csv(file_name, index=False)
-    df.to_csv(f"cleaned_{file_name}", index=False)
+        df.to_csv(get_output_file_name(file), index=False)
+
+    # Get intersection data of all files by university name
+    output_files = [get_output_file_name(file) for file in files]
+
+    common_universities = set(pd.read_csv(output_files[0])["name"])
+
+    for file in output_files[1:]:
+        current_universities = set(pd.read_csv(file)["name"])
+        common_universities.intersection_update(current_universities)
+
+    common_universities = list(common_universities)
+
+    # Filter data by common universities
+    for file in output_files:
+        df = pd.read_csv(file)
+        filtered_df = df[df["name"].isin(common_universities)]
+
+        filtered_df.to_csv(file, index=False)
