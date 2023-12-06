@@ -31,7 +31,7 @@ $ source venv/bin/activate
    $ cd Scrapy_topUniversity
    $ scrapy crawl topUniversity -o file.csv
    ```
-4. Use the command below to clean the dirty data in the file. This script removes all `=` and `+` symbols from the data and eliminating duplicates universities.
+4. Use the command below to clean the dirty data in the file. This script removes all `=` and `+` symbols from the data and eliminating duplicates universities, Additionaly, it will create a codex of universities.
 
    ```bash
    $ python csv_cleaner.py
