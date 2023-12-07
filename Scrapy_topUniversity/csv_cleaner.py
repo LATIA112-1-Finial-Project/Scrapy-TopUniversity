@@ -81,5 +81,6 @@ if __name__ == "__main__":
             university_df, df, left_on="university_name", right_on="name", how="inner"
         )
         df = df.drop(columns=["name", "university_name"])
+        df = df.rename(columns={"id": "university_id"})
 
         df.to_csv(file, index=False)
