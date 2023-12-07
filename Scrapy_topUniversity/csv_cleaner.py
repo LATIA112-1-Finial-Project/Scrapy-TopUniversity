@@ -76,6 +76,10 @@ if __name__ == "__main__":
     # Filter data by common universities
     for file in output_files:
         df = pd.read_csv(file)
-        filtered_df = df[df["name"].isin(common_universities)]
+        df = df[df["name"].isin(common_universities)]
+        df = pd.merge(
+            university_df, df, left_on="university_name", right_on="name", how="inner"
+        )
+        df = df.drop(columns=["name", "university_name"])
 
-        filtered_df.to_csv(file, index=False)
+        df.to_csv(file, index=False)
