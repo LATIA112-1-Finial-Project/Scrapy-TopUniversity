@@ -31,7 +31,7 @@ $ source venv/bin/activate
    $ cd Scrapy_topUniversity
    $ scrapy crawl topUniversity -o file.csv
    ```
-4. Use the command below to clean the dirty data in the file. This script removes all `=` and `+` symbols from the data and eliminating duplicates universities. Additionaly, it will create a codex of universities.
+4. Use the command below to clean the dirty data in the file. This script removes all `=` and `+` symbols from the data and eliminating duplicates universities. Additionaly, it will create a codex of universities `university.csv`, and replace university name to university id in the resulting file.
 
    ```bash
    $ python csv_cleaner.py
@@ -46,6 +46,14 @@ $ source venv/bin/activate
    ```
 
    The resulting CSV files are stored in folders named after the corresponding years `ex. 2021/`, and each file is named after the attribute type and year `ex. overall_2021.csv`.
+
+6. Use the following command to filte the top 500 universities by employer reputation.
+
+   ```bash
+   $ python top_500_employer_reputation_filter.py
+   ```
+
+   The resulting CSV files are stored in folders named after the corresponding years `ex. 2021/`, and each file is named after the attribute type and year `ex. top_500_employer_reputation_2021.csv`.
 
 ---
 
