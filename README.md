@@ -47,10 +47,10 @@ $ source venv/bin/activate
 
    The resulting CSV files are stored in folders named after the corresponding years `ex. 2021/`, and each file is named after the attribute type and year `ex. overall_2021.csv`.
 
-6. Use the following command to filte the top 500 universities by employer reputation.
+6. Use the following command to filte the top 500 universities by employer reputation and academic reputation.
 
    ```bash
-   $ python top_500_employer_reputation_filter.py
+   $ python top_500_attr_filter.py
    ```
 
    The resulting CSV files are stored in folders named after the corresponding years `ex. 2021/`, and each file is named after the attribute type and year `ex. top_500_employer_reputation_2021.csv`.
