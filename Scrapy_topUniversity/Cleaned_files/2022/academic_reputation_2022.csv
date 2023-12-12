@@ -1,1148 +1,1148 @@
-university_id,academic reputation rank,academic reputation score
-1,23,98.4
-2,501,4.6
-3,501,5.9
-4,501,10.6
-5,131,56.6
-6,501,16.3
-7,501,14.6
-8,16,99.2
-9,501,6.6
-10,501,11.4
-11,431,19.7
-12,501,5.7
-13,501,14.7
-14,501,15.5
-15,461,18.5
-16,501,5.7
-17,272,30.8
-18,377,22.3
-19,136,55.7
-20,501,5.3
-21,41,90.4
-22,501,13.5
-23,501,6.8
-24,501,6.4
-25,501,7.3
-26,501,12.1
-27,501,16.5
-28,486,17.5
-29,501,3.3
-30,501,9.1
-31,268,31.3
-32,287,29.3
-33,194,42.3
-34,3,100.0
-35,134,56.0
-36,340,25.0
-37,501,16.4
-38,139,54.8
-39,172,45.8
-40,501,12.5
-41,403,20.6
-42,501,15.8
-43,38,92.3
-44,501,11.1
-45,501,11.2
-46,501,11.1
-47,501,13.7
-48,160,49.7
-49,501,4.2
-50,52,87.5
-51,17,98.9
-52,159,49.9
-53,322,26.2
-54,501,5.8
-55,501,3.4
-56,501,10.1
-57,176,45.5
-58,319,26.6
-59,15,99.4
-60,501,7.8
-61,501,4.9
-62,501,7.7
-63,501,7.8
-64,77,74.7
-65,389,21.4
-66,501,3.6
-67,501,16.4
-68,501,8.9
-69,168,46.7
-70,10,99.9
-71,501,15.4
-72,121,59.2
-73,501,9.4
-74,501,5.1
-75,501,4.3
-76,118,59.6
-77,501,3.8
-78,113,61.5
-79,501,12.9
-80,261,32.5
-81,501,4.2
-82,501,8.5
-83,501,12.2
-84,356,23.5
-85,111,61.8
-86,310,27.4
-87,501,8.7
-88,138,55.4
-89,469,18.1
-90,390,21.4
-91,199,41.4
-92,374,22.4
-93,484,17.5
-94,348,24.2
-95,424,19.9
-96,246,33.9
-97,500,16.6
-98,501,14.1
-99,501,8.0
-100,485,17.5
-101,22,98.4
-102,501,13.0
-103,501,11.5
-104,501,9.2
-105,501,13.0
-106,501,5.2
-107,501,7.4
-108,44,90.2
-109,501,16.5
-110,501,5.9
-111,497,16.7
-112,501,4.4
-113,501,7.6
-114,501,5.2
-115,307,27.6
-116,501,7.1
-117,211,39.9
-118,501,4.6
-119,116,60.4
-120,323,26.2
-121,179,45.2
-122,285,29.9
-123,501,5.5
-124,501,11.8
-125,501,3.1
-126,408,20.4
-127,501,8.4
-128,393,21.1
-129,501,13.8
-130,308,27.4
-131,26,97.9
-132,100,66.3
-133,292,28.8
-134,501,10.4
-135,265,32.1
-136,440,19.4
-137,501,3.3
-138,501,12.2
-139,125,58.5
-140,501,7.6
-141,300,28.1
-142,501,9.2
-143,501,9.8
-144,123,58.9
-145,501,10.2
-146,501,3.8
-147,501,7.8
-148,501,9.0
-149,501,11.5
-150,269,31.2
-151,501,13.4
-152,60,84.2
-153,501,12.5
-154,492,17.2
-155,501,15.6
-156,120,59.3
-157,175,45.7
-158,501,16.4
-159,501,5.7
-160,119,59.4
-161,197,42.0
-162,501,4.4
-163,501,14.2
-164,501,5.7
-165,490,17.2
-166,501,7.2
-167,400,20.7
-168,351,24.0
-169,501,14.0
-170,14,99.4
-171,333,25.4
-172,501,13.1
-173,501,13.2
-174,355,23.6
-175,2,100.0
-176,483,17.5
-177,501,2.9
-178,27,97.6
-179,109,62.0
-180,501,6.0
-181,105,65.1
-182,501,6.6
-183,501,7.6
-184,351,24.0
-185,501,8.1
-186,501,5.3
-187,501,13.6
-188,501,5.8
-189,501,4.4
-190,234,35.6
-191,501,10.9
-192,501,4.3
-193,456,18.8
-194,32,95.2
-195,35,93.6
-196,501,11.6
-197,501,12.1
-198,225,37.6
-199,284,30.1
-200,429,19.7
-201,501,14.9
-202,13,99.5
-203,370,22.6
-204,501,9.2
-205,501,6.1
-206,501,11.0
-207,324,26.0
-208,263,32.4
-209,501,9.7
-210,501,4.4
-211,347,24.3
-212,345,24.5
-213,399,20.7
-214,228,37.0
-215,501,13.2
-216,6,100.0
-217,501,8.9
-218,501,10.8
-219,501,4.1
-220,365,22.9
-221,501,10.5
-222,501,4.8
-223,96,67.7
-224,191,42.8
-225,501,10.3
-226,501,7.1
-227,501,9.6
-228,421,20.0
-229,338,25.2
-230,501,11.6
-231,501,6.5
-232,195,42.2
-233,501,4.8
-234,470,18.1
-235,501,10.7
-236,501,6.8
-237,185,44.1
-238,325,26.0
-239,21,98.6
-240,501,4.8
-241,326,25.9
-242,501,6.6
-243,501,6.6
-244,204,41.2
-245,316,26.8
-246,203,41.3
-247,501,5.4
-248,501,5.4
-249,31,95.9
-250,501,5.8
-251,236,35.3
-252,501,7.4
-253,90,70.5
-254,501,5.4
-255,402,20.7
-256,220,38.0
-257,312,27.2
-258,226,37.5
-259,501,11.5
-260,467,18.2
-261,501,14.4
-262,501,13.7
-263,501,7.8
-264,501,8.8
-265,501,13.7
-266,53,86.9
-267,501,13.1
-268,501,13.6
-269,501,8.9
-270,501,13.3
-271,501,8.3
-272,501,15.5
-273,249,33.7
-274,457,18.7
-275,494,17.0
-276,392,21.1
-277,501,4.6
-278,501,10.6
-279,501,12.2
-280,198,41.5
-281,501,5.4
-282,127,58.3
-283,107,63.3
-284,171,46.0
-285,47,88.9
-286,187,43.9
-287,229,36.8
-288,501,7.6
-289,378,22.3
-290,501,8.1
-291,124,58.8
-292,501,12.6
-293,141,54.5
-294,501,4.0
-295,501,4.0
-296,188,43.5
-297,501,6.8
-298,501,16.2
-299,321,26.3
-300,501,8.1
-301,471,18.1
-302,501,7.8
-303,501,12.6
-304,157,50.2
-305,37,92.5
-306,305,27.8
-307,501,9.8
-308,403,20.6
-309,5,100.0
-310,501,6.8
-311,152,50.8
-312,501,8.2
-313,455,18.9
-314,501,5.1
-315,432,19.7
-316,87,71.3
-317,420,20.1
-318,501,3.6
-319,501,9.7
-320,501,9.7
-321,501,4.4
-322,501,7.2
-323,501,5.5
-324,501,14.5
-325,170,46.5
-326,216,38.6
-327,224,37.6
-328,501,9.5
-329,501,5.1
-330,501,12.5
-331,501,5.3
-332,235,35.4
-333,501,8.4
-334,154,50.7
-335,501,10.2
-336,263,32.4
-337,501,2.5
-338,245,34.2
-339,501,7.9
-340,501,7.6
-341,501,4.9
-342,501,12.1
-343,78,74.6
-344,20,98.6
-345,501,14.8
-346,190,42.8
-347,501,10.5
-348,56,84.8
-349,501,4.7
-350,501,7.6
-351,501,15.3
-352,143,53.6
-353,320,26.4
-354,501,5.1
-355,380,22.0
-356,501,4.9
-357,501,7.0
-358,501,4.5
-359,501,5.2
-360,445,19.1
-361,43,90.2
-362,227,37.1
-363,501,9.4
-364,314,27.0
-365,501,9.7
-366,259,32.6
-367,501,9.0
-368,479,17.7
-369,501,11.7
-370,501,9.6
-371,58,84.4
-372,501,13.5
-373,177,45.3
-374,501,8.6
-375,501,6.9
-376,501,8.2
-377,289,28.9
-378,501,8.5
-379,501,5.8
-380,501,3.7
-381,501,6.2
-382,413,20.2
-383,4,100.0
-384,317,26.6
-385,406,20.5
-386,298,28.3
-387,501,15.4
-388,501,10.1
-389,501,3.4
-390,489,17.3
-391,231,36.5
-392,501,12.0
-393,240,34.8
-394,57,84.5
-395,362,23.1
-396,501,12.1
-397,501,4.1
-398,501,3.9
-399,501,14.0
-400,478,17.8
-401,501,15.2
-402,501,15.8
-403,501,5.4
-404,117,60.3
-405,501,6.2
-406,501,15.1
-407,501,9.4
-408,501,4.6
-409,29,96.7
-410,501,15.6
-411,501,6.0
-412,11,99.6
-413,145,52.4
-414,480,17.7
-415,501,5.9
-416,501,7.8
-417,436,19.5
-418,501,15.3
-419,501,13.7
-420,501,9.4
-421,501,6.0
-422,501,5.7
-423,501,7.1
-424,501,10.2
-425,501,3.6
-426,140,54.5
-427,371,22.5
-428,379,22.1
-429,397,20.8
-430,501,3.4
-431,501,9.8
-432,334,25.4
-433,88,71.2
-434,366,22.9
-435,501,6.6
-436,332,25.5
-437,290,28.9
-438,501,11.8
-439,155,50.6
-440,501,11.3
-441,148,51.3
-442,501,12.4
-443,256,32.9
-444,94,67.8
-445,462,18.5
-446,501,16.0
-447,501,10.2
-448,286,29.9
-449,200,41.4
-450,501,12.0
-451,501,4.7
-452,375,22.4
-453,501,4.1
-454,212,39.9
-455,501,11.1
-456,501,13.9
-457,150,51.1
-458,428,19.7
-459,267,32.0
-460,45,90.1
-461,186,44.1
-462,346,24.4
-463,501,7.1
-464,68,80.1
-465,501,4.2
-466,460,18.7
-467,501,8.7
-468,501,7.7
-469,182,44.4
-470,132,56.2
-471,501,12.1
-472,451,18.9
-473,501,9.0
-474,162,49.6
-475,86,71.4
-476,501,11.5
-477,164,47.8
-478,501,12.0
-479,360,23.2
-480,7,100.0
-481,464,18.5
-482,501,4.7
-483,501,7.3
-484,501,3.4
-485,501,15.9
-486,501,9.5
-487,501,15.1
-488,218,38.6
-489,501,15.8
-490,501,15.0
-491,501,8.2
-492,163,48.7
-493,501,6.8
-494,501,4.2
-495,501,11.2
-496,501,4.8
-497,501,7.1
-498,437,19.5
-499,501,4.6
-500,501,7.9
-501,133,56.1
-502,202,41.3
-503,501,8.3
-504,501,7.9
-505,192,42.7
-506,501,9.1
-507,501,8.2
-508,501,8.0
-509,501,4.4
-510,501,8.4
-511,81,73.1
-512,215,39.2
-513,501,8.6
-514,230,36.6
-515,501,10.8
-516,501,8.3
-517,501,7.0
-518,501,9.2
-519,223,37.8
-520,501,11.3
-521,294,28.7
-522,501,4.9
-523,350,24.0
-524,336,25.2
-525,104,65.3
-526,102,66.1
-527,501,3.2
-528,501,15.2
-529,411,20.3
-530,97,67.2
-531,501,10.1
-532,70,77.6
-533,439,19.4
-534,501,10.5
-535,501,13.3
-536,448,19.0
-537,271,30.9
-538,501,9.5
-539,180,45.0
-540,28,96.8
-541,501,16.1
-542,501,4.6
-543,501,12.0
-544,128,58.1
-545,357,23.4
-546,63,83.4
-547,501,14.5
-548,240,34.8
-549,501,8.3
-550,495,16.8
-551,501,7.3
-552,501,11.2
-553,501,4.1
-554,501,14.8
-555,189,43.2
-556,82,72.7
-557,215,39.2
-558,501,9.9
-559,106,63.9
-560,153,50.8
-561,501,2.9
-562,501,5.7
-563,501,12.5
-564,501,8.3
-565,501,13.8
-566,501,3.7
-567,422,20.0
-568,450,19.0
-569,51,87.6
-570,272,30.8
-571,173,45.8
-572,501,11.4
-573,309,27.4
-574,501,9.4
-575,501,4.9
-576,501,6.7
-577,501,12.6
-578,501,4.3
-579,501,13.1
-580,401,20.7
-581,501,5.3
-582,501,9.2
-583,501,12.9
-584,501,3.8
-585,501,3.0
-586,442,19.3
-587,501,7.6
-588,501,5.1
-589,72,76.9
-590,67,80.6
-591,501,5.0
-592,150,51.1
-593,396,21.0
-594,80,73.5
-595,391,21.2
-596,412,20.3
-597,501,2.4
-598,262,32.5
-599,501,3.6
-600,501,9.8
-601,441,19.3
-602,237,35.2
-603,302,28.0
-604,407,20.4
-605,418,20.1
-606,501,6.4
-607,501,9.8
-608,501,4.7
-609,501,12.0
-610,433,19.6
-611,501,10.9
-612,501,15.0
-613,315,26.8
-614,501,9.9
-615,501,7.0
-616,417,20.1
-617,501,7.9
-618,501,6.9
-619,475,17.9
-620,130,56.7
-621,426,19.9
-622,501,15.4
-623,501,13.1
-624,501,8.2
-625,501,4.2
-626,501,9.5
-627,395,21.0
-628,501,12.4
-629,501,6.8
-630,501,13.2
-631,91,70.2
-632,429,19.7
-633,501,5.8
-634,465,18.4
-635,501,12.9
-636,501,5.9
-637,501,6.8
-638,501,6.9
-639,501,3.4
-640,501,12.8
-641,146,51.9
-642,501,6.2
-643,435,19.5
-644,501,5.1
-645,501,4.7
-646,149,51.2
-647,501,7.7
-648,93,68.2
-649,19,98.7
-650,103,65.5
-651,327,25.9
-652,501,8.0
-653,71,77.5
-654,501,4.7
-655,115,60.8
-656,501,7.6
-657,501,13.1
-658,501,6.9
-659,501,7.6
-660,501,4.1
-661,65,82.4
-662,501,4.9
-663,501,8.8
-664,257,32.8
-665,42,90.3
-666,501,14.9
-667,501,9.6
-668,499,16.6
-669,252,33.2
-670,501,6.9
-671,304,27.8
-672,501,4.5
-673,266,32.1
-674,501,7.0
-675,501,11.9
-676,501,11.3
-677,501,5.8
-678,501,10.6
-679,501,5.9
-680,156,50.5
-681,242,34.7
-682,501,13.9
-683,501,4.5
-684,501,5.2
-685,501,14.6
-686,364,23.0
-687,501,15.8
-688,501,12.0
-689,501,5.0
-690,501,4.1
-691,416,20.1
-692,501,9.6
-693,501,7.8
-694,343,24.9
-695,85,71.6
-696,501,15.3
-697,8,100.0
-698,359,23.2
-699,501,11.2
-700,459,18.7
-701,501,4.9
-702,501,5.8
-703,410,20.4
-704,501,6.2
-705,147,51.5
-706,501,8.1
-707,434,19.6
-708,501,6.8
-709,501,8.6
-710,255,32.9
-711,501,7.0
-712,501,10.9
-713,501,15.1
-714,210,40.0
-715,501,7.8
-716,501,14.0
-717,501,8.3
-718,76,75.8
-719,501,12.3
-720,501,5.1
-721,254,33.1
-722,501,4.7
-723,501,14.9
-724,184,44.3
-725,373,22.4
-726,1,100.0
-727,99,66.9
-728,501,9.4
-729,501,9.1
-730,501,9.9
-731,501,5.2
-732,424,19.9
-733,501,15.5
-734,501,13.1
-735,501,1.9
-736,501,9.5
-737,458,18.7
-738,501,7.1
-739,501,8.3
-740,476,17.8
-741,368,22.8
-742,405,20.5
-743,66,80.9
-744,501,7.6
-745,501,9.6
-746,501,5.0
-747,299,28.2
-748,501,8.4
-749,501,5.6
-750,482,17.7
-751,296,28.6
-752,501,6.2
-753,62,83.4
-754,335,25.3
-755,501,7.4
-756,142,53.7
-757,501,13.8
-758,501,14.8
-759,306,27.7
-760,501,14.9
-761,443,19.2
-762,193,42.4
-763,501,13.9
-764,501,10.1
-765,452,18.9
-766,387,21.5
-767,501,12.5
-768,501,5.4
-769,110,61.9
-770,501,5.9
-771,169,46.7
-772,501,4.1
-773,501,9.4
-774,501,4.5
-775,501,15.6
-776,501,12.9
-777,501,15.4
-778,501,6.6
-779,501,9.6
-780,501,4.8
-781,501,15.6
-782,501,10.8
-783,501,7.3
-784,385,21.6
-785,501,11.6
-786,95,67.8
-787,501,4.6
-788,501,9.0
-789,274,30.8
-790,501,13.8
-791,501,2.8
-792,501,9.0
-793,64,83.1
-794,398,20.7
-795,427,19.8
-796,501,5.3
-797,501,9.6
-798,466,18.3
-799,46,89.6
-800,501,12.8
-801,295,28.7
-802,344,24.7
-803,501,2.6
-804,501,14.3
-805,501,7.0
-806,501,14.8
-807,501,2.4
-808,501,8.0
-809,414,20.2
-810,501,15.1
-811,501,5.7
-812,501,10.1
-813,84,71.9
-814,138,55.5
-815,501,4.6
-816,501,13.5
-817,477,17.8
-818,278,30.4
-819,501,6.8
-820,92,69.3
-821,501,5.2
-822,276,30.4
-823,174,45.7
-824,501,5.2
-825,501,6.6
-826,329,25.7
-827,217,38.6
-828,501,5.7
-829,54,86.4
-830,24,98.3
-831,49,88.8
-832,388,21.4
-833,98,67.1
-834,501,10.9
-835,501,12.5
-836,501,7.3
-837,409,20.4
-838,501,6.7
-839,501,6.2
-840,219,38.5
-841,501,14.3
-842,501,15.7
-843,167,46.8
-844,293,28.8
-845,40,91.0
-846,501,4.4
-847,501,7.6
-848,501,9.2
-849,501,9.2
-850,501,11.9
-851,501,4.8
-852,491,17.2
-853,501,5.6
-854,501,8.2
-855,415,20.2
-856,501,6.9
-857,281,30.1
-858,501,5.4
-859,501,6.4
-860,501,8.9
-861,501,5.4
-862,488,17.4
-863,501,11.7
-864,112,61.5
-865,349,24.1
-866,501,15.9
-867,501,11.4
-868,501,6.5
-869,501,13.8
-870,501,5.9
-871,501,7.8
-872,423,20.0
-873,283,30.1
-874,301,28.0
-875,501,3.6
-876,384,21.8
-877,501,7.4
-878,419,20.1
-879,501,6.2
-880,501,11.3
-881,501,5.9
-882,501,2.6
-883,501,8.8
-884,501,13.3
-885,166,47.2
-886,253,33.1
-887,383,21.8
-888,129,57.8
-889,501,10.8
-890,501,4.3
-891,501,5.4
-892,501,11.7
-893,74,76.5
-894,501,4.9
-895,501,9.4
-896,501,11.5
-897,330,25.7
-898,501,6.5
-899,69,79.5
-900,501,8.2
-901,501,8.5
-902,36,92.8
-903,501,3.3
-904,487,17.4
-905,313,27.1
-906,501,9.9
-907,501,6.7
-908,83,72.4
-909,381,21.9
-910,353,23.9
-911,501,6.3
-912,501,4.7
-913,501,4.4
-914,282,30.1
-915,206,41.0
-916,501,6.4
-917,501,8.5
-918,501,5.8
-919,108,62.8
-920,501,7.4
-921,493,17.0
-922,501,11.4
-923,501,11.0
-924,498,16.7
-925,501,16.4
-926,50,88.2
-927,501,8.6
-928,501,5.2
-929,501,9.3
-930,201,41.3
-931,279,30.3
-932,205,41.2
-933,501,4.5
-934,501,6.6
-935,328,25.8
-936,448,19.0
-937,501,15.0
-938,501,4.6
-939,501,11.9
-940,501,10.0
-941,501,4.7
-942,447,19.1
-943,501,11.9
-944,275,30.7
-945,311,27.2
-946,303,27.8
-947,501,5.6
-948,501,9.7
-949,501,11.7
-950,339,25.2
-951,501,6.9
-952,101,66.1
-953,501,7.3
-954,501,11.0
-955,239,34.9
-956,247,33.8
-957,473,18.0
-958,501,3.4
-959,501,10.8
-960,358,23.3
-961,501,1.0
-962,501,8.9
-963,444,19.2
-964,501,9.7
-965,331,25.5
-966,501,8.3
-967,137,55.6
-968,474,17.9
-969,337,25.2
-970,342,24.9
-971,501,12.1
-972,243,34.2
-973,501,6.9
-974,501,7.3
-975,250,33.7
-976,361,23.1
-977,501,7.3
-978,501,11.8
-979,39,91.1
-980,501,11.9
-981,501,11.2
-982,501,8.0
-983,501,5.3
-984,501,8.5
-985,48,88.9
-986,372,22.5
-987,501,10.3
-988,501,3.0
-989,496,16.8
-990,468,18.2
-991,354,23.6
-992,501,16.3
-993,233,36.1
-994,291,28.8
-995,213,39.6
-996,453,18.9
-997,501,10.3
-998,501,6.6
-999,207,40.5
-1000,501,6.8
-1001,244,34.2
-1002,501,12.9
-1003,501,5.2
-1004,501,5.9
-1005,463,18.5
-1006,196,42.0
-1007,238,35.2
-1008,501,14.9
-1009,501,11.2
-1010,501,12.9
-1011,501,11.8
-1012,501,14.2
-1013,214,39.2
-1014,270,31.0
-1015,501,3.8
-1016,178,45.3
-1017,221,37.9
-1018,501,9.2
-1019,501,5.5
-1020,501,3.4
-1021,501,15.3
-1022,501,5.7
-1023,501,8.8
-1024,501,10.9
-1025,501,5.8
-1026,501,8.6
-1027,501,5.4
-1028,501,8.8
-1029,437,19.5
-1030,501,4.4
-1031,501,3.5
-1032,501,4.2
-1033,376,22.3
-1034,165,47.3
-1035,501,11.9
-1036,501,9.2
-1037,73,76.7
-1038,501,7.5
-1039,501,14.7
-1040,30,96.2
-1041,501,9.1
-1042,501,4.1
-1043,501,7.3
-1044,501,8.0
-1045,501,5.4
-1046,208,40.3
-1047,18,98.7
-1048,501,11.3
-1049,501,6.3
-1050,501,7.4
-1051,61,83.8
-1052,135,55.7
-1053,501,10.6
-1054,501,13.7
-1055,501,10.6
-1056,501,10.8
-1057,501,10.9
-1058,501,16.2
-1059,501,6.9
-1060,161,49.7
-1061,501,11.6
-1062,501,3.9
-1063,501,6.0
-1064,232,36.2
-1065,501,10.0
-1066,501,11.4
-1067,501,8.3
-1068,501,11.0
-1069,501,9.8
-1070,501,6.7
-1071,144,53.3
-1072,297,28.5
-1073,55,85.4
-1074,472,18.0
-1075,501,3.8
-1076,33,94.6
-1077,367,22.8
-1078,501,13.8
-1079,501,4.3
-1080,501,11.1
-1081,501,9.7
-1082,501,8.6
-1083,501,14.8
-1084,501,10.5
-1085,394,21.0
-1086,362,23.1
-1087,25,98.0
-1088,386,21.5
-1089,501,11.3
-1090,501,4.5
-1091,258,32.8
-1092,59,84.4
-1093,501,5.7
-1094,79,74.4
-1095,501,10.3
-1096,183,44.4
-1097,501,7.7
-1098,501,14.5
-1099,501,15.7
-1100,209,40.0
-1101,501,2.4
-1102,501,5.3
-1103,501,11.4
-1104,248,33.8
-1105,501,9.2
-1106,501,4.7
-1107,501,12.5
-1108,114,61.0
-1109,341,25.0
-1110,501,12.6
-1111,501,14.4
-1112,369,22.6
-1113,501,7.8
-1114,501,6.7
-1115,501,9.3
-1116,501,14.4
-1117,501,16.6
-1118,89,70.6
-1119,501,12.7
-1120,222,37.8
-1121,501,6.6
-1122,75,75.9
-1123,34,94.6
-1124,501,9.4
-1125,501,9.0
-1126,501,9.8
-1127,318,26.6
-1128,277,30.4
-1129,9,99.9
-1130,454,18.9
-1131,501,4.6
-1132,501,6.6
-1133,125,58.5
-1134,501,16.5
-1135,501,11.5
-1136,501,4.9
-1137,501,4.5
-1138,158,50.2
-1139,501,15.4
-1140,280,30.2
-1141,501,7.5
-1142,481,17.7
-1143,501,11.6
-1144,122,59.1
-1145,382,21.8
-1146,446,19.1
-1147,501,6.2
+name,academic reputation rank,academic reputation score
+Massachusetts Institute of Technology (MIT),5,100.0
+University of Oxford,3,100.0
+Stanford University,4,100.0
+University of Cambridge,2,100.0
+Harvard University,1,100.0
+California Institute of Technology (Caltech),29,96.7
+Imperial College London,22,98.4
+ETH Zurich,18,98.7
+UCL,14,99.4
+University of Chicago,16,99.2
+"Nanyang Technological University, Singapore (NTU Singapore)",39,91.1
+University of Pennsylvania,30,96.2
+EPFL,65,82.4
+Yale University,9,99.9
+The University of Edinburgh,25,98.0
+Tsinghua University,21,98.6
+Peking University,15,99.4
+Columbia University,11,99.6
+Princeton University,10,99.9
+Cornell University,23,98.4
+The University of Hong Kong,26,97.9
+The University of Tokyo,7,100.0
+University of Michigan-Ann Arbor,20,98.6
+Johns Hopkins University,51,87.6
+University of Toronto,13,99.5
+McGill University,37,92.5
+Australian National University (ANU),34,94.6
+The University of Manchester,32,95.2
+Northwestern University,58,84.4
+Fudan University,56,84.8
+"University of California, Berkeley (UCB)",6,100.0
+Kyoto University,19,98.7
+The Hong Kong University of Science and Technology,60,84.2
+King's College London,47,88.9
+Seoul National University,24,98.3
+The University of Melbourne,17,98.9
+The University of Sydney,28,96.8
+The Chinese University of Hong Kong (CUHK),49,88.8
+"University of California, Los Angeles (UCLA)",8,100.0
+KAIST - Korea Advanced Institute of Science & Technology,52,87.5
+New York University (NYU),31,95.9
+The University of New South Wales (UNSW Sydney),41,90.4
+Université PSL,76,75.8
+Zhejiang University,88,71.2
+University of British Columbia,27,97.6
+The University of Queensland,50,88.2
+"University of California, San Diego (UCSD)",40,91.0
+The London School of Economics and Political Science (LSE),83,72.4
+Shanghai Jiao Tong University,63,83.4
+Technical University of Munich,57,84.5
+Duke University,53,86.9
+Carnegie Mellon University,82,72.7
+City University of Hong Kong,119,59.4
+University of Amsterdam,64,83.1
+Tokyo Institute of Technology (Tokyo Tech),78,74.6
+Delft University of Technology,84,71.9
+Monash University,48,88.9
+Brown University,128,58.1
+The University of Warwick,81,73.1
+University of Bristol,77,74.7
+Universität Heidelberg,68,80.1
+Ludwig-Maximilians-Universität München,36,92.8
+Universiti Malaya (UM),72,76.9
+The Hong Kong Polytechnic University,98,67.1
+University of Texas at Austin,35,93.6
+National Taiwan University (NTU),38,92.3
+Universidad de Buenos Aires (UBA),44,90.2
+KU Leuven,59,84.4
+University of Zurich,120,59.3
+Sorbonne University,43,90.2
+University of Glasgow,79,74.4
+Korea University,70,77.6
+Osaka University,67,80.6
+University of Wisconsin-Madison,62,83.4
+University of Southampton,147,51.5
+Lomonosov Moscow State University,69,79.5
+University of Copenhagen,80,73.5
+Yonsei University,85,71.6
+Pohang University of Science And Technology (POSTECH),184,44.3
+Durham University,127,58.3
+Tohoku University,86,71.4
+University of Illinois at Urbana-Champaign,54,86.4
+The University of Auckland,61,83.8
+University of Washington,55,85.4
+Université Paris-Saclay,138,55.5
+Lund University,90,70.5
+Georgia Institute of Technology,94,67.8
+KTH Royal Institute of Technology,165,47.3
+University of Birmingham,103,65.5
+University of St Andrews,169,46.7
+University of Leeds,89,70.6
+The University of Western Australia,125,58.5
+Rice University,209,40.0
+The University of Sheffield,116,60.4
+Pennsylvania State University,75,75.9
+Sungkyunkwan University (SKKU),113,61.5
+University of Science and Technology of China,145,52.4
+Technical University of Denmark,265,32.1
+University of North Carolina at Chapel Hill,100,66.3
+"Trinity College Dublin, The University of Dublin",93,68.2
+University of Oslo,138,55.4
+University of Nottingham,122,59.1
+University of Helsinki,97,67.2
+Universidad Nacional Autónoma de México  (UNAM),33,94.6
+University of Geneva,163,48.7
+Washington University in St. Louis,202,41.3
+The University of Adelaide,144,53.3
+"University of California, Davis",99,66.9
+King Abdulaziz University (KAU),201,41.3
+Utrecht University,102,66.1
+Université de Montréal,131,56.6
+Aalto University,175,45.7
+Boston University,109,62.0
+Leiden University,92,69.3
+University of Southern California,132,56.2
+Purdue University,107,63.3
+Queen Mary University of London,154,50.7
+Nagoya University,121,59.2
+University of Bern,277,30.4
+The Ohio State University,110,61.9
+Chalmers University of Technology,292,28.8
+Universidade de São Paulo,45,90.1
+Wageningen University & Research,191,42.8
+Uppsala University,105,65.1
+Eindhoven University of Technology,286,29.9
+University of Alberta,142,53.7
+Freie Universitaet Berlin,66,80.9
+Humboldt-Universität zu Berlin,42,90.3
+University of Groningen,150,51.1
+École Normale Supérieure de Lyon,257,32.8
+Nanjing University,118,59.6
+Lancaster University,204,41.2
+University of Technology Sydney,182,44.4
+Newcastle University,172,45.8
+Pontificia Universidad Católica de Chile (UC),46,89.6
+"KIT, Karlsruhe Institute of Technology",178,45.3
+Kyushu University,133,56.1
+University of Basel,294,28.7
+McMaster University,212,39.9
+Ghent University,140,54.5
+Politecnico di Milano,101,66.1
+Universiti Putra Malaysia (UPM),143,53.6
+Universiti Kebangsaan Malaysia (UKM),130,56.7
+Hokkaido University,139,54.8
+"University of California, Santa Barbara (UCSB)",129,57.8
+Universiti Sains Malaysia (USM),123,58.9
+Stockholm University,137,55.6
+University of Exeter,200,41.4
+University of Waterloo,213,39.6
+Cardiff University,166,47.2
+University of Vienna,91,70.2
+University of York,189,43.2
+University of Rochester,336,25.2
+Aarhus University,134,56.0
+Hanyang University,179,45.2
+Michigan State University,114,61.0
+"University of Maryland, College Park",146,51.9
+Technische Universität Berlin (TU Berlin),136,55.7
+Emory University,340,25.0
+Case Western Reserve University,450,19.0
+Tecnológico de Monterrey,180,45.0
+King Fahd University of Petroleum & Minerals,295,28.7
+University of Pittsburgh,194,42.3
+RWTH Aachen University,157,50.2
+Alma Mater Studiorum - University of Bologna,71,77.5
+University of Bath,240,34.8
+Texas A&M University,112,61.5
+Universitat de Barcelona,87,71.3
+Western University,272,30.8
+Sapienza University of Rome,74,76.5
+Albert-Ludwigs-Universitaet Freiburg,159,49.9
+University College Dublin,162,49.6
+University of Florida,161,49.7
+Al-Farabi Kazakh National University,176,45.5
+University of Lausanne,258,32.8
+Eberhard Karls Universität Tübingen,171,46.0
+Indian Institute of Technology Bombay (IITB),148,51.3
+Erasmus University Rotterdam,234,35.6
+National Tsing Hua University,149,51.2
+Technische Universität Wien,259,32.6
+University of Gothenburg,221,37.9
+Khalifa University,501,13.7
+Universidad de Chile,73,76.7
+Indian Institute of Technology Delhi (IITD),173,45.8
+Indian Institute of Science,243,34.2
+University of Minnesota Twin Cities,111,61.8
+Université catholique de Louvain (UCLouvain),153,50.8
+University of Liverpool,192,42.7
+University of Twente,395,21.0
+Dartmouth College,435,19.5
+Universiti Teknologi Malaysia,193,42.4
+University of Wollongong,278,30.4
+Curtin University,269,31.2
+Technische Universität Dresden,220,38.0
+University of Otago,155,50.6
+"The University of Newcastle, Australia (UON)",274,30.8
+The Hebrew University of Jerusalem,239,34.9
+University of Bergen,244,34.2
+"Macquarie University (Sydney, Australia)",252,33.2
+Keio University,158,50.2
+University of Reading,247,33.8
+Waseda University,117,60.3
+University of Göttingen,156,50.5
+University of Aberdeen,287,29.3
+RMIT University,227,37.1
+Universidad Autónoma de Madrid,125,58.5
+Universite libre de Bruxelles,248,33.8
+Universitat Autònoma de Barcelona,115,60.8
+Vrije Universiteit Amsterdam,206,41.0
+Tongji University,235,35.4
+Queensland University of Technology (QUT),197,42.0
+Universität Hamburg,152,50.8
+Chulalongkorn University,96,67.7
+Arizona State University,177,45.3
+Queen's University Belfast,283,30.1
+Vanderbilt University,326,25.9
+Universidade Estadual de Campinas (Unicamp),104,65.3
+Radboud University,279,30.3
+Vrije Universiteit Brussel (VUB),350,24.0
+University of Notre Dame,302,28.0
+Complutense University of Madrid,95,67.8
+Qatar University,385,21.6
+Wuhan University,215,39.2
+Rheinische Friedrich-Wilhelms-Universität Bonn,150,51.1
+University of Cape Town,186,44.1
+University of Sussex,323,26.2
+University of Virginia,231,36.5
+University of Ottawa,341,25.0
+Loughborough University,268,31.3
+"University of California, Irvine",198,41.5
+Maastricht University,381,21.9
+University of Antwerp,362,23.1
+University of Calgary,240,34.8
+Harbin Institute of Technology,349,24.1
+Universidad de los Andes,124,58.8
+University of Leicester,357,23.4
+Victoria University of Wellington,168,46.7
+Queen's University at Kingston,228,37.0
+USI - Università della Svizzera italiana,501,5.2
+American University of Beirut (AUB),306,27.7
+Saint Petersburg State University,190,42.8
+Università di Padova,135,55.7
+Ecole des Ponts ParisTech,501,8.6
+Novosibirsk State University,290,28.9
+University of Massachusetts Amherst,199,41.4
+Georgetown University,263,32.4
+Universitat Pompeu Fabra (Barcelona),272,30.8
+Universiti Brunei Darussalam (UBD),421,20.0
+University of Colorado Boulder,229,36.8
+National Cheng Kung University (NCKU),187,43.9
+Yeshiva University,501,2.6
+Gadjah Mada University,164,47.8
+Indian Institute of Technology Madras (IITM),233,36.1
+Mahidol University,196,42.0
+Tel Aviv University,254,33.1
+University of Galway,321,26.3
+Universidad Nacional de Colombia,106,63.9
+University of Canterbury | Te Whare Wānanga o Waitaha,215,39.2
+Sun Yat-sen University,232,36.2
+Sciences Po,414,20.2
+Université Paris Cité,216,38.6
+Kyung Hee University,320,26.4
+Rutgers University–New Brunswick,214,39.2
+Charles University,174,45.7
+University of Navarra,289,28.9
+The University of Arizona,203,41.3
+Technical University of Darmstadt,416,20.1
+Beijing Normal University,219,38.5
+Heriot-Watt University,501,15.3
+Dalhousie University,460,18.7
+Tomsk State University,370,22.6
+University of Surrey,376,22.3
+Southern University of Science and Technology (SUSTech),501,6.8
+Tufts University,433,19.6
+Graz University of Technology,501,14.0
+Indian Institute of Technology Kanpur (IITK),284,30.1
+King Saud University,267,32.0
+Indian Institute of Technology Kharagpur (IIT-KGP),301,28.0
+Bauman Moscow State Technical University,353,23.9
+Universität Innsbruck,407,20.4
+Deakin University.,300,28.1
+Massey University,285,29.9
+University of Illinois at Chicago (UIC),188,43.5
+University of Tsukuba,238,35.2
+Hong Kong Baptist University,463,18.5
+United Arab Emirates University,339,25.2
+Griffith University,305,27.8
+Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),476,17.8
+Universitas Indonesia,185,44.1
+Université Paris 1 Panthéon-Sorbonne,108,62.8
+Xi’an Jiaotong University,361,23.1
+Belarusian State University,386,21.5
+University of Porto,218,38.6
+University of Turku,303,27.8
+Simon Fraser University,344,24.7
+University College Cork,307,27.6
+North Carolina State University,276,30.4
+University of Tartu,325,26.0
+University of Strathclyde,319,26.6
+Bandung Institute of Technology (ITB),205,41.2
+University of Tasmania,478,17.8
+Gwangju Institute of Science and Technology (GIST),501,13.4
+HSE University,309,27.4
+University of East Anglia (UEA),432,19.7
+University of Warsaw,170,46.5
+Jagiellonian University,225,37.6
+University of Southern Denmark (SDU),436,19.5
+Indiana University Bloomington,222,37.8
+University of Cologne,223,37.8
+University of Miami,348,24.2
+National Taiwan University of Science and Technology (Taiwan Tech),328,25.8
+Université Grenoble Alpes,183,44.4
+University of Milan,160,49.7
+IE University,501,7.3
+RUDN University,493,17.0
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),501,9.4
+Universitat Politècnica de Catalunya · BarcelonaTech (UPC),253,33.1
+Swinburne University of Technology,501,13.9
+University of Dundee,439,19.4
+Friedrich-Alexander-Universität Erlangen-Nürnberg,367,22.8
+Pontificia Universidad Católica Argentina,455,18.9
+University of Macau,501,10.7
+Aalborg University,426,19.9
+University of South Australia,362,23.1
+L.N. Gumilyov Eurasian National University (ENU),394,21.0
+Linköping University,418,20.1
+"City, University of London",409,20.4
+Technion - Israel Institute of Technology,322,26.2
+"Birkbeck, University of London",501,12.5
+Taylor's University,453,18.9
+Huazhong University of Science and Technology,391,21.2
+National Taiwan Normal University,266,32.1
+Politecnico di Torino,242,34.7
+Royal Holloway University of London,481,17.7
+Tianjin University,434,19.6
+University of Victoria (UVic),489,17.3
+Goethe-University Frankfurt am Main,167,46.8
+University of Hawaiʻi at Mānoa,501,16.2
+Northeastern University,402,20.7
+Hiroshima University,371,22.5
+Universiti Teknologi Brunei,501,12.6
+Universität Jena,429,19.7
+Virginia Polytechnic Institute and State University,297,28.5
+Kazan (Volga region) Federal University,448,19.0
+UCSI University,477,17.8
+"University of California, Santa Cruz",429,19.7
+Universität Stuttgart,347,24.3
+Brunel University London,501,11.5
+Universidad Carlos III de Madrid (UC3M),271,30.9
+Ural Federal University - UrFU,388,21.4
+Johannes Kepler University Linz,501,11.3
+George Washington University,312,27.2
+Tilburg University,501,15.4
+University of Lisbon,208,40.3
+Nankai University,366,22.9
+National University of Sciences And Technology (NUST) Islamabad,471,18.1
+University of Jyväskylä,501,16.6
+University of Utah,496,16.8
+Ewha Womans University,364,23.0
+La Trobe University,401,20.7
+MGIMO University,501,13.3
+ITMO University,501,12.4
+Umea University,419,20.1
+Ulm University,501,8.1
+Sultan Qaboos University,501,14.8
+Norwegian University of Science And Technology,256,32.9
+Universidade Federal do Rio de Janeiro,141,54.5
+Universitat Politecnica de Valencia,331,25.5
+Lincoln University,501,8.3
+Beijing Institute of Technology,387,21.5
+"University of Chemistry and Technology, Prague",501,6.6
+University of Connecticut,501,15.8
+University of Waikato,424,19.9
+University of Oulu,501,16.4
+Julius-Maximilians-Universität Würzburg,501,16.5
+Quaid-i-Azam University,501,15.1
+"Stony Brook University, State University of New York",420,20.1
+Sharif University of Technology,501,12.1
+Tokyo Medical and Dental University (TMDU),501,10.8
+American University of Sharjah,451,18.9
+Beihang University (former BUAA),501,14.4
+University of Kent,422,20.0
+Kobe University,316,26.8
+University of Kansas,501,15.3
+University at Buffalo SUNY,456,18.8
+University of Pisa,207,40.5
+Università Vita-Salute San Raffaele,501,3.2
+SOAS University of London,424,19.9
+Universidad de Palermo (UP),501,9.1
+Peter the Great St. Petersburg Polytechnic University,501,13.1
+Ruhr-Universität Bochum,372,22.5
+Indian Institute of Technology Guwahati (IITG),501,13.2
+National Research Tomsk Polytechnic University,501,9.6
+Pontificia Universidad Catolica del Peru,211,39.9
+Pakistan Institute of Engineering and Applied Sciences (PIEAS),501,5.4
+University of the Philippines,246,33.9
+Indian Institute of Technology Roorkee (IITR),501,14.8
+Universidad Austral,501,15.4
+Vilnius University,400,20.7
+Czech Technical University in Prague,427,19.8
+Shandong University,501,14.9
+"University of California, Riverside",475,17.9
+Flinders University,501,13.1
+South China University of Technology,501,12.1
+Taipei Medical University (TMU),501,9.7
+Xiamen University,330,25.7
+University of Münster,250,33.7
+National Sun Yat-sen University,332,25.5
+Pontificia Universidad Javeriana,226,37.5
+Chung-Ang University (CAU),501,15.5
+Lappeenranta-Lahti University of Technology LUT,501,7.3
+Tampere University,337,25.2
+Universiti Teknologi PETRONAS (UTP),501,16.4
+"University of Colorado, Denver",501,8.3
+University of Science and Technology Beijing,501,15.0
+Université Laval,403,20.6
+National Technical University of Athens,444,19.2
+Université de Strasbourg,195,42.2
+Universität Mannheim,490,17.2
+James Cook University,501,15.1
+University of Naples - Federico II,261,32.5
+University of Witwatersrand,342,24.9
+Johannes Gutenberg Universität Mainz,384,21.8
+Washington State University,314,27.0
+Oxford Brookes University,317,26.6
+Wake Forest University,501,5.8
+Colorado State University,437,19.5
+Rensselaer Polytechnic Institute,501,9.2
+Universidade Nova de Lisboa,313,27.1
+Universidade Federal de São Paulo,501,11.9
+University of Johannesburg,501,14.5
+Shanghai University,351,24.0
+Tulane University,501,10.1
+University of Canberra,501,14.0
+"Essex, University of",486,17.5
+Swansea University,501,15.8
+University of Cyprus (UCY),501,9.0
+University of Trento,343,24.9
+University of Tromsø The Arctic University of Norway,501,13.2
+Illinois Institute of Technology,501,15.1
+HUFS - Hankuk (Korea) University of Foreign Studies,501,11.7
+The American University in Cairo,315,26.8
+Umm Al-Qura University,501,14.9
+Universität  Leipzig,335,25.3
+Saarland University,501,11.6
+University of Milano-Bicocca,437,19.5
+Auckland University of Technology (AUT),412,20.3
+Bond University,501,4.8
+Sichuan University,482,17.7
+University of Florence,262,32.5
+Brandeis University,501,10.9
+University of Coimbra,296,28.6
+University of Iowa,399,20.7
+University of Saskatchewan,501,11.8
+Universidad Politécnica de Madrid (UPM),280,30.2
+University of St.Gallen (HSG),501,9.2
+Far Eastern Federal University,501,6.8
+"Goldsmiths, University of London",465,18.4
+Martin-Luther-Universität Halle-Wittenberg,501,14.7
+Airlangga University,310,27.4
+Amirkabir University of Technology,501,5.4
+Southeast University,501,12.0
+Universidad de Belgrano,501,8.0
+National Taipei University of Technology,501,13.8
+Universidad de Montevideo (UM),501,14.7
+Ben-Gurion University of The Negev,501,14.4
+Hasselt University,501,4.5
+Universidad ORT Uruguay,501,11.3
+University of Stirling,501,11.6
+Florida State University,298,28.3
+"University of Missouri, Columbia",501,16.5
+Bar-Ilan University,501,9.4
+Chiba University,501,16.3
+University of Texas Dallas,501,15.5
+Chang Gung University,501,4.7
+Université de Liège,448,19.0
+Auezov South Kazakhstan University (SKU),501,9.6
+Stellenbosch University,345,24.5
+The Catholic University of Korea,501,4.8
+Aston University,501,12.5
+University of Turin,245,34.2
+The National University of Science and Technology MISIS,501,8.5
+Universidad de Santiago de Chile (USACH),224,37.6
+Yokohama City University,501,4.6
+Dublin City University,457,18.7
+Justus-Liebig-University Giessen,501,12.0
+UNESP,249,33.7
+University of Granada,210,40.0
+Western Sydney University,480,17.7
+Boston College,377,22.3
+Christian-Albrechts-University zu Kiel,443,19.2
+Dongguk University,501,9.4
+Iowa State University,442,19.3
+Sogang University,468,18.2
+"University of Rome ""Tor Vergata""",275,30.7
+York University,374,22.4
+Aix-Marseille University,230,36.6
+Jilin University,501,13.8
+Satbayev University,501,15.2
+Universidad de La Habana,470,18.1
+University of Bordeaux,263,32.4
+University of Delhi,236,35.3
+University of Klagenfurt,501,4.5
+University of Limerick,491,17.2
+Universität Konstanz,375,22.4
+Warsaw University of Technology,324,26.0
+IPB University (aka Bogor Agricultural University),452,18.9
+Koç University,464,18.5
+Missouri University of Science and Technology,501,3.4
+Singapore Management University,501,11.6
+Universidad de Alcalá,501,9.8
+Universiti Utara Malaysia (UUM),488,17.4
+University of Balamand,501,4.6
+V. N. Karazin Kharkiv National University,501,11.9
+Wayne State University,501,9.8
+Central South University,501,7.3
+China University of Geosciences,501,4.1
+Concordia University,501,14.5
+Imam Abdulrahman Bin Faisal University (IAU),501,4.5
+National Central University,406,20.5
+"Universidad Central ""Marta Abreu"" de Las Villas",501,6.1
+University of Bayreuth,501,10.0
+University of Eastern Finland,501,14.9
+University of Tehran,378,22.3
+Université de Montpellier,413,20.2
+Ajou University,501,11.4
+East China Normal University,501,14.6
+Hitotsubashi University,501,16.5
+Institut National des Sciences Appliquées de Lyon (INSA),501,8.9
+Lehigh University,501,6.0
+Nagasaki University,501,6.5
+National Research Saratov State University,501,4.4
+Oregon State University,485,17.5
+Saint Joseph University of Beirut (USJ),501,9.7
+Southern Federal University,501,8.1
+Universidad de Costa Rica,299,28.2
+Universidad de Zaragoza,383,21.8
+University of Delaware,501,10.5
+Aberystwyth University,501,9.8
+Iran University of Science and Technology,501,6.4
+Kyungpook National University,501,13.5
+Niigata University,501,4.7
+Northwestern Polytechnical University,501,4.9
+Sabanci University,501,15.6
+The University of Georgia,379,22.1
+"The University of Tennessee, Knoxville",501,10.9
+University of Ulsan,501,5.8
+Abai Kazakh National Pedagogical University,501,15.4
+Aristotle University of Thessaloniki,318,26.6
+Kazakh National Agrarian Research University KazNARU,501,12.5
+Masaryk University,356,23.5
+Middle East Technical University,333,25.4
+Universidad Panamericana (UP),501,7.6
+Universidad de Sevilla,237,35.2
+University of Szeged,479,17.7
+Università Cattolica del Sacro Cuore,380,22.0
+Université Paul Sabatier Toulouse III,410,20.4
+Altai State University,501,5.9
+Hallym University,501,2.6
+Inha University,501,7.3
+Jawaharlal Nehru University,293,28.8
+Technische Universität Braunschweig,501,10.0
+The New School,501,13.8
+Università degli Studi di Pavia,403,20.6
+Université de Fribourg,501,10.8
+Cairo University,217,38.6
+Dalian University of Technology,501,8.6
+East China University of Science and Technology,501,7.3
+Holy Spirit University of Kaslik,501,4.7
+Hunan University,501,7.0
+Ivane Javakhishvili Tbilisi State University,501,6.8
+Jeonbuk National University,501,12.5
+Universitat de Valencia,282,30.1
+University of Minho,501,14.8
+University of Nebraska - Lincoln,501,10.8
+Universität Bremen,415,20.2
+Lebanese American University,501,9.7
+"Lingnan University, Hong Kong",501,7.6
+Murdoch University,501,7.9
+Okayama University,501,8.0
+Samara National Research University (Samara University),501,4.2
+Universidad Nacional de La Plata (UNLP),255,32.9
+University of Guelph,501,13.8
+University of South Florida,501,13.2
+Applied Science University - Bahrain,501,11.1
+Bilkent University,428,19.7
+Indian Institute of Technology Hyderabad (IITH),501,3.7
+Kumamoto University,501,7.4
+National Chengchi University,440,19.4
+Savitribai Phule Pune University,501,8.5
+"Sofia University ""St. Kliment Ohridski""",501,14.0
+Universidad Externado de Colombia,501,11.4
+University of Debrecen,487,17.4
+University of Electronic Science and Technology of China,501,4.2
+University of Ljubljana,423,20.0
+Universität Regensburg,501,11.2
+Université du Québec,392,21.1
+Abo Akademi University,501,8.9
+American University in Dubai,501,7.6
+Ateneo de Manila University,472,18.0
+Bangor University,501,8.6
+Carleton University,501,9.5
+Central Queensland University (CQUniversity Australia),501,6.6
+Chiang Mai University,270,31.0
+China Agricultural University,501,8.0
+Clark University,501,3.6
+Coventry University,501,9.8
+Gifu University,501,4.1
+Kanazawa University,501,8.2
+"Kingston University, London",501,15.6
+Konkuk University,501,7.3
+Leibniz University Hannover,393,21.1
+Management and Science University,501,10.6
+Nanjing University of Science and Technology,501,3.9
+Palacký University Olomouc,501,15.4
+Pavol Jozef Šafárik University in Košice,501,4.6
+Pusan National University,447,19.1
+Renmin (People's) University of China,365,22.9
+Sejong University,501,11.3
+Shenzhen University,501,7.1
+Soochow University,501,5.9
+Taras Shevchenko National University of Kyiv,469,18.1
+Thammasat University,360,23.2
+Tokyo University of Agriculture and Technology,501,12.2
+Universidad Anáhuac México,501,10.2
+Comillas Pontifical University,501,8.6
+Universidad de Concepción,334,25.4
+Universitat Ramon Llull,501,11.3
+Universite Paris-Pantheon-Assas,501,6.6
+University of Aveiro,501,12.1
+University of Cincinnati,501,13.1
+University of Genoa,501,15.8
+University of Hohenheim,501,9.4
+University of Jordan,346,24.4
+University of Manitoba,501,13.9
+University of Plymouth,501,9.4
+University of Pretoria,373,22.4
+University of Sharjah,501,13.9
+University of Siena,501,11.7
+University of South Carolina,501,16.4
+Victoria University,501,8.1
+American University,501,15.9
+Chongqing University,501,6.9
+College of William and Mary,501,9.0
+Comenius University Bratislava,501,12.9
+Drexel University,501,9.2
+Edith Cowan University,501,8.4
+Eötvös Loránd University,351,24.0
+Free University of Bozen-Bolzano,501,4.0
+Howard University,501,6.0
+International Islamic University Malaysia (IIUM),396,21.0
+Jadavpur University,501,13.3
+Kagoshima University,501,4.8
+Karl-Franzens-Universitaet Graz,397,20.8
+King Khalid University,501,8.4
+Lahore University of Management Sciences (LUMS),501,13.7
+Lobachevsky University,501,8.8
+Macau University of Science and Technology,501,3.8
+Michigan Technological University,501,5.8
+National Chung Hsing University,500,16.6
+"National Technical University  ""Kharkiv Polytechnic Institute""",501,6.0
+National and Kapodistrian University of Athens,359,23.2
+Pontifícia Universidade Católica do Rio de Janeiro,291,28.8
+Sunway University,501,7.0
+Syracuse University,501,14.1
+Tokushima University,501,5.2
+Ulster University,501,9.2
+Universidad ICESI,501,4.9
+Universidad Peruana Cayetano Heredia (UPCH),501,9.7
+Universidad Pontificia Bolivariana,501,8.5
+Universidad de Antioquia,308,27.4
+Universidade Federal de Minas Gerais,281,30.1
+Universiti Teknologi MARA - UiTM,338,25.2
+University of Crete,501,14.8
+University of Hull,501,7.7
+University of Hyderabad,501,11.4
+University of Kentucky,501,11.5
+University of Massachusetts Boston,501,13.5
+University of Mons,501,5.3
+University of New Mexico,501,14.3
+University of Oklahoma,501,9.5
+University of Oregon,494,17.0
+University of Pecs,501,12.6
+University of Portsmouth,501,8.1
+University of Salamanca,329,25.7
+University of Trieste,501,11.7
+University of Vermont,501,3.4
+Universität Rostock,501,6.8
+Université Claude Bernard Lyon 1,462,18.5
+Zayed University,501,10.1
+Abu Dhabi University,501,7.1
+Ajman University,501,8.5
+Beijing University of Technology,501,7.6
+Bogaziçi Üniversitesi,405,20.5
+Brno University of Technology,501,12.0
+Charles Darwin University,501,5.3
+City University of New York,311,27.2
+Gunma University,501,2.8
+Instituto Tecnológico de Buenos Aires (ITBA),501,7.8
+Istanbul Technical University,431,19.7
+Lebanese University,501,15.7
+Middlesex University,501,5.4
+"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",501,12.9
+New Jersey Institute of Technology (NJIT),501,4.5
+Northumbria University at Newcastle,501,10.2
+Notre Dame University-Louaize NDU,501,5.3
+O.P. Jindal Global University,501,6.9
+Philipps-Universität Marburg,501,15.0
+Plekhanov Russian University of Economics,501,8.8
+Politecnico di Bari,501,5.1
+Prince Mohammad Bin Fahd university,501,8.5
+Saint Petersburg Electrotechnical University ETU-LETI,501,4.5
+Stevens Institute of Technology,501,2.9
+Sumy State University,501,4.7
+Tokyo Metropolitan University,501,11.9
+Universidad Central de Venezuela,441,19.3
+Universidad Iberoamericana IBERO,501,16.2
+Universidad de La Sabana,501,15.1
+Universidad de San Andrés - UdeSA,501,5.7
+Universidade de Santiago de Compostela,382,21.8
+Universitat Rovira i Virgili,501,6.5
+University of Bradford,501,9.1
+University of Haifa,501,13.7
+University of Houston,501,14.9
+University of Huddersfield,501,9.2
+University of Modena and Reggio Emilia,501,8.7
+University of Southern Queensland,501,8.2
+University of Westminster,501,10.1
+University of Windsor,501,2.9
+University of the Basque Country,484,17.5
+Universität Potsdam,501,14.8
+Université Côte d'Azur,501,16.4
+Virginia Commonwealth University,501,7.1
+American University of the Middle East,501,9.7
+Belarusian National Technical University (BNTU),501,9.2
+Bournemouth University,501,5.3
+Chonnam National University,501,9.2
+Chungnam National University,501,10.3
+Clarkson University,501,1.0
+Dankook University,501,3.4
+Georgia State University,501,13.1
+Institut Teknologi Sepuluh Nopember (ITS Surabaya),501,11.2
+Instituto Politécnico Nacional (IPN),417,20.1
+Instituto Tecnológico Autónomo de México (ITAM),501,13.8
+Jamia Millia Islamia,501,6.2
+Jinan University (China),501,4.1
+Karaganda State Technical University,501,5.1
+Keele University,501,6.2
+Lanzhou University,501,7.4
+"Manipal Academy of Higher Education, Manipal, Karnataka, India",501,7.9
+Maynooth University,501,10.1
+Memorial University of Newfoundland,501,5.8
+Northwest University (China),501,3.6
+Pontificia Universidad Católica de Valparaíso,369,22.6
+Princess Nourah bint Abdulrahman University,501,12.0
+Riga Technical University,501,12.1
+Ritsumeikan University,501,12.9
+Shiraz University,501,7.0
+Southern Cross University,501,3.8
+Tallinn University of Technology (TalTech),501,12.7
+Temple University,501,13.7
+Universidad Adolfo Ibáñez,501,14.9
+Universidad San Francisco de Quito (USFQ),501,10.8
+Universidad Torcuato Di Tella,501,11.4
+Universidad de la República (Udelar),408,20.4
+Universidad del Rosario,501,12.6
+Universidade Federal do Rio Grande Do Sul,304,27.8
+Universiti Tenaga Nasional (UNITEN),501,7.3
+University Duesseldorf,501,12.9
+University at Albany SUNY,501,8.8
+University of Brescia,501,3.9
+University of Central Florida,501,15.3
+University of Denver,501,5.6
+University of Greenwich,501,4.5
+"University of Maryland, Baltimore County",501,11.4
+University of Zagreb,501,15.8
+Università degli Studi di Perugia,501,8.0
+Université de Sherbrooke,501,5.9
+Vilnius Gediminas Technical University (VILNIUS TECH),501,10.6
+Worcester Polytechnic Institute,501,3.8
+AGH University of Krakow,501,9.0
+Karaganda Buketov University,501,9.6
+"Adam Mickiewicz University, Poznań",501,16.3
+"Ain Shams University in Cairo (ASU, Cairo)",454,18.9
+Ankara Üniversitesi,501,15.4
+Anna University,501,6.8
+Auburn University,501,7.2
+Australian Catholic University,501,7.5
+Bangladesh University of Engineering and Technology,501,13.1
+Beijing Foreign Studies University,501,5.9
+Beijing Jiaotong University,501,10.6
+Beirut Arab University,501,7.4
+Bielefeld University,501,14.2
+Binghamton University SUNY,501,7.4
+Budapest University of Technology and Economics,501,13.6
+Ca' Foscari University of Venice,473,18.0
+Catania University,501,11.8
+Charles Sturt University,501,4.3
+Clemson University,501,8.6
+Corvinus University of Budapest,501,11.0
+Cracow University of Technology (Politechnika Krakowska),501,10.5
+Czech University of Life Sciences in Prague,501,9.8
+De La Salle University,461,18.5
+De Montfort University,501,5.1
+Edinburgh Napier University,501,4.7
+Florida International University,501,14.4
+Fordham University,501,6.7
+Gdańsk University of Technology,501,7.9
+George Mason University,501,9.2
+German Jordanian University,501,5.7
+Gulf University for Science and Technology,501,5.7
+Hacettepe University,501,15.6
+Harbin Engineering University,501,3.4
+Indiana University–Purdue University Indianapolis,501,8.3
+Islamic University of Madinah,501,3.6
+Istanbul University,368,22.8
+Jordan University of Science & Technology,501,15.9
+Kansas State University,501,10.3
+Kasetsart University,354,23.6
+Kaunas University of Technology,501,11.3
+Kazakh Ablai Khan University of International Relations and World Languages,501,5.5
+Kazakh-British Technical University,501,10.3
+Khon Kaen University,501,15.6
+King Faisal University,501,12.5
+King Mongkut's University of Technology Thonburi,501,13.1
+Kyoto Institute of Technology,501,6.4
+Kyushu Institute of Technology,501,4.7
+Liverpool John Moores University,501,10.2
+Lodz University of Technology,501,5.4
+London Metropolitan University,501,5.9
+London South Bank University,501,3.3
+Louisiana State University,501,9.9
+Loyola University Chicago,501,8.2
+Lviv Polytechnic National University,501,7.1
+Manchester Metropolitan University,501,11.2
+Mendel University in Brno,501,6.9
+NJSC KIMEP University,501,6.6
+National Chung Cheng University,501,12.5
+Nicolaus Copernicus University,501,7.4
+Nottingham Trent University,501,9.9
+Novosibirsk State Technical University,501,6.9
+Oklahoma State University,501,9.9
+Paris Lodron University of Salzburg,501,8.9
+Perm State National Research University,501,4.7
+Pontifícia Universidade Católica de São Paulo,501,11.8
+Poznan University of Technology,501,6.6
+Prince of Songkla University,467,18.2
+Princess Sumaya University for Technology,501,4.9
+"Queen Margaret University , Edinburgh",501,4.6
+Rhodes University,501,6.7
+Riga Stradins University,501,6.4
+Robert Gordon University,501,3.8
+Russian Presidential Academy of National Economy and Public Administration,501,4.6
+Rutgers University–Newark,501,12.1
+Toronto Metropolitan University,501,6.6
+Shinshu University,501,3.4
+Silesian University of Technology,501,4.9
+Slovak University of Technology in Bratislava,501,9.1
+Sophia University,501,11.1
+South Ural State University (National Research University),501,7.8
+Southern Methodist University,501,5.6
+MATE Hungarian University of Agriculture and Life Sciences,501,5.2
+TU Dortmund University,501,13.3
+Technical University of Kosice,501,6.6
+Technical University of Liberec,501,4.4
+Technological University Dublin,501,10.9
+Tecnológico de Costa Rica -TEC,501,8.3
+Texas Tech University,501,10.8
+The University of Alabama,501,9.4
+Tokyo University of Science,501,11.5
+UNIVERSITY OF GDANSK,501,11.0
+Universidad Autónoma Metropolitana (UAM),355,23.6
+Universidad Autonoma Chapingo,501,4.2
+Universidad Autónoma del Estado de México (UAEMex),390,21.4
+Universidad Católica Andres Bello,389,21.4
+Universidad Católica del Uruguay (UCU),501,9.5
+Universidad Diego Portales (UDP),501,14.6
+Universidad EAFIT,501,11.4
+Universidad Nacional Mayor de San Marcos,466,18.3
+Universidad Nacional de Córdoba - UNC,411,20.3
+Universidad Nacional de Rosario (UNR),445,19.1
+Universidad Nacional de San Luis,501,4.3
+Universidad Simón Bolívar (USB),501,15.2
+Universidad Tecnológica Nacional (UTN),501,3.4
+Universidad Tecnológica de Panamá (UTP),501,7.6
+Universidad Técnica Federico Santa María (USM),501,10.5
+Universidad de Guadalajara (UDG),446,19.1
+Universidad de Los Andes - (ULA) Mérida,501,12.8
+Universidad de Oviedo,501,11.6
+Universidad de las Américas Puebla (UDLAP),501,7.8
+Universidad de los Andes - Chile,501,12.3
+Universidad del Valle,483,17.5
+Universidade Católica Portuguesa,501,12.5
+Universidade Federal de Pernambuco (UFPE),501,12.6
+Universidade Federal de Santa Catarina,458,18.7
+Universidade Federal de São Carlos (UFSCar),501,13.5
+Universidade Federal do Paraná - UFPR,501,12.9
+Universidade da Coruña,501,5.4
+Universidade de Brasília,358,23.3
+Universita' Politecnica delle Marche,501,5.1
+Universita' degli Studi di Ferrara,501,5.7
+Universitas Padjadjaran (UNPAD),501,12.9
+Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),501,10.9
+Universiti Malaysia Perlis,501,7.1
+Universiti Tunku Abdul Rahman (UTAR),501,11.5
+University of Alicante,501,13.0
+University of Baghdad,501,9.6
+University of Bahrain,501,11.2
+University of Bari,501,11.9
+University of Brighton,501,8.8
+University of Calcutta,501,15.0
+University of Central Lancashire,501,5.2
+University of Dhaka,474,17.9
+University of East London,501,4.2
+University of Engineering & Technology (UET) Lahore,501,6.8
+University of Hertfordshire,501,4.1
+University of Kwazulu-Natal,501,12.2
+University of Lincoln,501,5.9
+University of Lodz,501,10.9
+University of Malta,501,5.1
+University of Maribor,501,6.7
+University of Mississippi,501,3.7
+University of Murcia,501,11.7
+University of New England Australia,501,10.4
+University of New Hampshire,501,5.8
+University of Palermo,501,9.9
+University of Parma,501,9.4
+University of Patras,501,11.9
+University of Salerno,501,7.6
+University of Salford,501,7.8
+University of Santo Tomas,501,11.5
+University of Seoul,501,11.3
+University of Tulsa,501,2.5
+University of Wroclaw,501,15.7
+University of Wyoming,501,2.4
+University of the Punjab,501,13.6
+University of the West of England,501,9.3
+Università degli Studi di Udine,501,6.9
+Università degli studi Roma Tre,497,16.7
+Universität Duisburg-Essen,501,11.5
+Université Toulouse 1 Capitole,501,14.3
+Université de Lille,327,25.9
+Université de Lorraine,501,13.8
+Nantes Université,501,11.0
+Université de Rennes 1,501,16.0
+Verona University,501,8.7
+Viet Nam National University Ho Chi Minh City (VNU-HCM),398,20.7
+"Vietnam National University, Hanoi",499,16.6
+Vytautas Magnus University,501,12.4
+Wroclaw University of Science and Technology (WRUST),501,11.9
+Wuhan University of Technology,501,5.9
+Xi'an Jiaotong Liverpool University,501,4.7
+Yamaguchi University,501,4.0
+Yeungnam University,501,4.9
+Yokohama National University,501,11.1
+Al-Azhar University,501,8.8
+Alexandria University,459,18.7
+Aligarh Muslim University,501,7.7
+Amity University,501,5.4
+Amrita Vishwa Vidyapeetham,501,3.3
+An-Najah National University,501,4.9
+Assiut University,501,9.6
+Athens University of Economics and Business,501,6.8
+Azerbaijan State University of Economics,501,6.2
+Babes-Bolyai University,492,17.2
+Baku State University,501,6.2
+Baylor University,501,5.7
+Belarusian State University of Informatics and Radioelectronics,501,6.2
+Benemerita Universidad Autonoma de Puebla,501,15.5
+Bina Nusantara University (BINUS),501,9.8
+"Birla Institute of Technology and Science, Pilani",501,7.0
+Birmingham City University,501,5.0
+Brigham Young University,501,7.5
+COMSATS University Islamabad,501,8.9
+Canterbury Christ Church University,501,6.8
+Universidad Católica de Córdoba,501,4.3
+Chung Yuan Christian University,501,4.6
+Diponegoro University,501,14.2
+Doshisha University,501,8.6
+EGE UNIVERSITY,501,6.9
+Escuela Politécnica Nacional,501,5.7
+Escuela Superior Politécnica del Litoral (ESPOL),501,9.5
+Feng Chia University,501,6.9
+Fu Jen Catholic University,501,6.7
+Gazi Üniversitesi,501,11.1
+Glasgow Caledonian University,501,4.6
+Izmir Institute of Technology (IZTECH),501,4.8
+Jamia Hamdard,501,4.3
+Kent State University,501,6.3
+King Mongkut's Institute of Technology Ladkrabang,501,7.9
+Kuwait University,501,11.8
+Leeds Beckett University,501,4.6
+Makerere University,501,9.4
+Marquette University,501,3.3
+Meiji University,501,6.9
+Miami University,501,4.2
+Multimedia University (MMU),501,7.4
+Mustansiriyah University,501,3.0
+Nagoya Institute of Technology (NIT),501,5.4
+National Dong Hwa University,501,5.4
+National Taiwan Ocean University,501,5.4
+National University of Kyiv-Mohyla Academy (NaUKMA),501,4.8
+North-West University,501,6.6
+Northern Arizona University,501,6.8
+Ohio University,501,9.2
+Panjab University,501,5.2
+Paul Valéry University Montpellier,501,12.8
+Pontificia Universidad Católica del Ecuador (PUCE),501,13.0
+"Pontifícia Universidade Católica do Rio Grande do Sul, PUCRS",501,7.0
+Rikkyo University,501,3.6
+Russian State University for the Humanities,501,4.4
+Saint-Petersburg Mining University,501,3.4
+Saitama University,501,3.5
+Saken Seifullin Kazakh Agrotechnical University,501,5.7
+San Diego State University,501,4.6
+Seoul National University of Science and Technology,501,6.3
+Shahid Beheshti University (SBU),501,8.2
+Shanghai International Studies University,501,4.7
+Sheffield Hallam University,501,7.1
+"Siberian Federal University, SibFU",501,7.3
+Tallinn University,501,8.2
+Thapar Institute of Engineering & Technology,501,1.9
+The University of Lahore,501,8.3
+Tokai University,501,11.2
+Ton Duc Thang University,501,6.2
+Universidad Andrés Bello,501,9.2
+Universidad Austral de Chile,501,15.3
+Universidad Autónoma de Nuevo León,501,16.1
+Universidad Central del Ecuador,501,8.3
+Universidad Industrial de Santander - UIS,501,10.1
+Universidad Metropolitana,501,7.7
+Universidad Nacional Agraria la Molina,501,6.6
+Universidad Nacional de Cuyo,501,12.1
+Universidad Nacional de Mar del Plata,501,9.8
+Universidad Nacional de San Martín (UNSAM),501,9.7
+Universidad Nacional de la Asunción,501,5.7
+Universidad Nacional Costa Rica,501,9.6
+Universidad Peruana de Ciencias Aplicadas,501,7.8
+Universidad Rey Juan Carlos,501,7.3
+Universidad de Castilla-La Mancha,501,8.4
+Universidad de La Frontera (UFRO),501,8.3
+Universidad de Lima,501,9.5
+Universidad de Monterrey (UDEM),501,11.2
+Universidad de Puerto Rico,501,10.5
+Universidad de Talca,501,10.3
+Universidad de Valparaíso (UV),501,9.6
+Universidad del Desarrollo (UDD),501,5.5
+Universidad del Norte,501,9.0
+Universidad del Pacífico,501,7.8
+Universidade Federal Fluminense,501,8.4
+Universidade Federal da Bahia,501,8.2
+Universidade Federal de Viçosa (UFV),501,4.9
+Universidade Federal do Ceará (UFC),501,6.9
+Universidade de Vigo,501,7.0
+Universidade do Estado do Rio de Janeiro (UERJ),501,9.1
+Universitas Brawijaya,501,13.7
+Universitatea de Vest din Timisoara /  West University of Timisoara,501,10.6
+Universiti Malaysia Sabah (UMS),501,14.5
+Universiti Malaysia Sarawak (UNIMAS),501,11.6
+Universiti Malaysia Terengganu (UMT),501,9.0
+"University of Agriculture, Faisalabad",501,5.2
+University of Arkansas Fayetteville,501,7.6
+University of Belgrade,498,16.7
+University of Bucharest,495,16.8
+University of Calabria,501,5.0
+University of Colombo,501,10.6
+University of Ghana,501,9.4
+University of Karachi,501,10.2
+University of Kufa,501,4.4
+University of Latvia,501,12.0
+University of Miskolc,501,5.8
+University of Montana Missoula,501,2.4
+University of Mumbai,501,9.7
+University of Nairobi,501,8.9
+University of Niš,501,4.4
+University of Novi Sad,501,7.8
+University of Ostrava,501,5.4
+University of Pardubice,501,4.9
+University of Peradeniya,501,7.2
+University of Rijeka,501,5.0
+University of San Diego,501,7.6
+University of San Francisco,501,8.0
+University of Silesia in Katowice,501,5.4
+University of West Bohemia,501,5.8
+University of the Pacific,501,2.4
+University of the Western Cape,501,7.6
+Universität Siegen,501,4.1
+Université Jean Moulin Lyon 3,501,8.0
+Université Lumière Lyon 2,501,12.0
+Université Paris-Nanterre,501,12.2
+Université de Poitiers,501,9.0
+Université Toulouse - Jean Jaurès,501,10.9
+Utah State University,501,6.6
+VSB - Technical University of Ostrava,501,4.4
+"Vellore Institute of Technology (VIT), Vellore, India",501,8.3
+Voronezh State University,501,6.2
+Warsaw University of Life Sciences  SGGW (WULS-SGGW),501,7.7
+Alexandru Ioan Cuza University,501,8.3
+Aoyama Gakuin University,501,5.7
+Birzeit university,501,5.3
+Damascus University,501,5.2
+Dokuz Eylul Universitesi,501,4.4
+German University in Cairo,501,6.5
+Hanoi University of Science and Technology,501,7.8
+Helwan University,501,5.8
+Mansoura University,501,10.8
+Suranaree University of Technology,501,5.7
+Tamkang University,501,5.2
+Technical University of Cluj-Napoca,501,5.1
+"The ""Gheorghe Asachi"" Technical University of Iasi",501,6.0
+The Hashemite University,501,5.5
+Toraighyrov University,501,3.8
+Tunghai University,501,5.3
+Universidad Autonoma de Yucatan,501,5.3
+Universidad Autónoma de Baja California,501,8.2
+Universidad Autónoma de Chile,501,4.9
+Universidad Autónoma de Querétaro (UAQ),501,4.8
+Universidad Autónoma de San Luis de Potosí,501,6.7
+Universidad Autónoma del Estado de Morelos (UAEM),501,4.1
+"Universidad Católica Boliviana ""San Pablo""",501,4.4
+Universidad Católica de Colombia,501,4.3
+Universidad Católica del Norte,501,5.2
+Universidad Mayor de San Andrés (UMSA),501,5.9
+Universidad Nacional de Quilmes,501,6.8
+Universidad Nacional de Tucumà¡n,501,7.6
+Universidad Nacional del Litoral,501,11.0
+Universidad Nacional del Sur,501,5.9
+Universidad de Guanajuato,501,7.8
+Universidad de La Salle,501,5.8
+Universidad de Medellín,501,6.6
+Universidad de Panamá - UP,501,6.2
+Universidad de Sonora,501,4.1
+Universidad de las Fuerzas Armadas ESPE (Ex - Escuela Politécnica del Ejército),501,4.4
+Universidad del Bío-Bío,501,7.6
+Universidade Estadual de Londrina,501,3.1
+Universidade Federal de Santa Maria,501,4.5
+Universitas Muhammadiyah Surakarta,501,4.2
+University POLITEHNICA of Bucharest,501,6.4
+University of Babylon,501,3.6
+University of Basrah,501,4.1
+University of Sarajevo,501,4.6
+University of Split,501,5.1
+Università degli studi di Bergamo,501,4.7
+Université Mohammed V de Rabat,501,3.0
+Université de Caen Normandie,501,7.8
+Yarmouk University,501,9.3
+Yildiz Technical University,501,5.6

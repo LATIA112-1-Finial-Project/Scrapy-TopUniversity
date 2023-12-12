@@ -65,22 +65,9 @@ if __name__ == "__main__":
 
     common_universities = list(common_universities)
 
-    # Create a codex of universities
-    university_data = {
-        "id": range(1, len(common_universities) + 1),
-        "university_name": common_universities,
-    }
-    university_df = pd.DataFrame(university_data)
-    university_df.to_csv("Top_500_University_Data/university.csv", index=False)
-
     # Filter data by common universities
     for file in output_files:
         df = pd.read_csv(file)
         df = df[df["name"].isin(common_universities)]
-        df = pd.merge(
-            university_df, df, left_on="university_name", right_on="name", how="inner"
-        )
-        df = df.drop(columns=["name", "university_name"])
-        df = df.rename(columns={"id": "university_id"})
 
         df.to_csv(file, index=False)
