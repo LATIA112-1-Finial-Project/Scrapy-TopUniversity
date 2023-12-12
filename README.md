@@ -1,4 +1,6 @@
-# LATIA112-1 HW02
+# LATIA112-1 Final Project - Scrapy_topUniversity
+
+In this repository, we utilize Scrapy to crawl information related to university rankings from [TOPUNIVERSITIES](https://www.topuniversities.com/). A series of Python scripts are employed for data preprocessing tasks, including cleaning, categorization, and encoding. These steps are undertaken to prepare the data for subsequent use in the project.
 
 ## Virtual Environment
 
@@ -25,36 +27,40 @@ $ source venv/bin/activate
 ## How To Use My Scrapy Code
 
 1. Install the dependancies
+
 2. Modify the year that you want at line 13 in `universities.py`, default is "2024". (2021~2024)
+
 3. Note that `file.csv` already exist in codebase, hence you **MAY CHANGE THE NAME TO THE OTHER** so as not to keep writing the data into `file.csv`.
    ```bash
    $ cd Scrapy_topUniversity
    $ scrapy crawl topUniversity -o file.csv
    ```
-4. Use the command below to clean the dirty data in the file. This script removes all `=` and `+` symbols from the data and eliminating duplicates universities. Additionaly, it will create a codex of universities `university.csv`, and replace university name to university id in the resulting file.
+4. Use the command below to clean the dirty data in the file. This script removes all `=` and `+` symbols from the data and eliminating duplicates universities. Additionaly, it will create a codex of universities `Top_500_University_Data/university.csv`, and replace university name to university id in the resulting file.
+
+   > Note: Make sure you are in the right directory, which should be `Scrapy_topUniversity/`.
 
    ```bash
-   $ python csv_cleaner.py
+   $ python3 scripts/csv_cleaner.py
    ```
 
-   The file `cleaned_file_<year>.csv` represents the resulting CSV file that has been cleaned and is ready for use in a database table.
+   The file `Cleaned_files/cleaned_file_<year>.csv` represents the resulting CSV file that has been cleaned and is ready for use in a database table.
 
 5. Use the following command to split the cleaned CSV file into multiple CSV files based on attribute types and years.
 
    ```bash
-   $ python attribute_splitter.py
+   $ python3 scripts/attribute_splitter.py
    ```
 
-   The resulting CSV files are stored in folders named after the corresponding years `ex. 2021/`, and each file is named after the attribute type and year `ex. overall_2021.csv`.
+   The resulting CSV files are stored in folders named after the corresponding years `ex. Cleaned_files/2021/`, and each file is named after the attribute type and year `ex. overall_2021.csv`.
 
 6. Use the following command to filte the top 500 universities by employer reputation, academic reputation, and overall.
 
    ```bash
-   $ python top_500_attr_filter.py
-   $ python top_500_overall_filter.py
+   $ python3 scripts/top_500_attr_filter.py
+   $ python3 scripts/top_500_overall_filter.py
    ```
 
-   The resulting CSV files are stored in folders named after the corresponding years `ex. 2021/`, and each file is named after the attribute type and year `ex. top_500_employer_reputation_2021.csv`.
+   The resulting CSV files are stored in folders named after the corresponding years `ex. Top_500_University_Data/2021/`, and each file is named after the attribute type and year `ex. top_500_overall_2021.csv`.
 
 ---
 
