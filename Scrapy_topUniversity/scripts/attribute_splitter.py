@@ -48,10 +48,10 @@ if __name__ == "__main__":
 
         # Combine the attribute dataframes with the name dataframe and save
         for attrs_df in attrs_dfs:
-            result_df = pd.concat([df["university_id"], attrs_df], axis=1)
+            result_df = pd.concat([df["name"], attrs_df], axis=1)
 
             year = extract_year_from_filename(file)
             file_path = build_filepath(year, attrs_df.columns[0])
 
-            os.makedirs(year, exist_ok=True)
+            os.makedirs(f"Cleaned_files/{year}", exist_ok=True)
             result_df.to_csv(file_path, index=False)
