@@ -32,12 +32,12 @@ def build_filepath(year, attribute):
     attr = attribute.split()[:-1]
     attr = "_".join(attr)
 
-    return os.path.join(year, f"{attr}_{year}.csv")
+    return os.path.join("Cleaned_files", f"{year}/{attr}_{year}.csv")
 
 
 if __name__ == "__main__":
     for file in files:
-        df = pd.read_csv(file)
+        df = pd.read_csv(f"Cleaned_files/{file}")
 
         attrs_dfs = []
 

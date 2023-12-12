@@ -6,7 +6,7 @@ years = ["2021", "2022", "2023", "2024"]
 
 for year in years:
     # (1) 匯入CSV檔
-    filename = f"{year}/overall_{year}.csv"
+    filename = f"Cleaned_files/{year}/overall_{year}.csv"
 
     # (2) 將CSV檔轉成LIST
     with open(filename, "r", newline="", encoding="utf-8") as csvfile:
@@ -36,7 +36,7 @@ for year in years:
     filtered_data = [row for row in data_list_sorted if row[1] <= 500]
 
     # (5) 輸成CSV，記得補上HEADER再將剛剛的內容接續在後面
-    output_filename = f"{year}/top_500_overall_{year}.csv"
+    output_filename = f"Top_500_University_Data/{year}/top_500_overall_{year}.csv"
 
     with open(output_filename, "w", newline="", encoding="utf-8") as csvfile:
         csv_writer = csv.writer(csvfile)

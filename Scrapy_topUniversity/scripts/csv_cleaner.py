@@ -14,13 +14,13 @@ Instructions:
 files = ["file_2021.csv", "file_2022.csv", "file_2023.csv", "file_2024.csv"]
 
 
-def get_output_file_name(file_name):
+def get_output_file_path(file_name):
     # TODO: Rename the output file by modifying the return string.
     # Example: return f"cleaned_{file_name}"
 
     # Or, to overwrite the input file, use:
     # return file_name
-    return f"cleaned_{file_name}"
+    return f"Cleaned_files/cleaned_{file_name}"
 
 
 def data_clean(value):
@@ -52,10 +52,10 @@ if __name__ == "__main__":
         df = df.drop_duplicates(subset="name", keep="first")
         df = df.apply(lambda x: x.map(data_clean))
 
-        df.to_csv(get_output_file_name(file), index=False)
+        df.to_csv(get_output_file_path(file), index=False)
 
     # Get intersection data of all files by university name
-    output_files = [get_output_file_name(file) for file in files]
+    output_files = [get_output_file_path(file) for file in files]
 
     common_universities = set(pd.read_csv(output_files[0])["name"])
 
@@ -71,7 +71,7 @@ if __name__ == "__main__":
         "university_name": common_universities,
     }
     university_df = pd.DataFrame(university_data)
-    university_df.to_csv("university.csv", index=False)
+    university_df.to_csv("Top_500_University_Data/university.csv", index=False)
 
     # Filter data by common universities
     for file in output_files:
