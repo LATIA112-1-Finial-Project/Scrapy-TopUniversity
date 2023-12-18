@@ -169,7 +169,7 @@ The method to obtain the endpoint involves opening the Network tab, selecting th
 
 ## Demo Video
 
-- [HW02 - Scrapy_topUniversity](https://youtu.be/BhOQm14mPn4)
+- [Scrapy_topUniversity](https://youtu.be/BhOQm14mPn4)
 
 ## Material
 
